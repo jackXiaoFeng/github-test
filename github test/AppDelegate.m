@@ -32,6 +32,8 @@
      *
      *  @return 的撒旦
      */
+    
+    NSString *str = @"为什么同步不了啊 啊啊啊 啊啊啊 ";
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
